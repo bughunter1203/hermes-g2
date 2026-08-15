@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
-  <rect width="1024" height="1024" rx="224" fill="#0A0A0A"/>
-  <g fill="none" stroke="#FFFFFF" stroke-width="84" stroke-linecap="round" stroke-linejoin="round">
-    <polyline points="336,336 556,512 336,688"/>
-  </g>
-  <rect x="616" y="646" width="216" height="84" rx="42" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+  <!-- Shell prompt: chevron + cursor. Single colour, no background field.
+       Matches the shape live Hub icons take (24x24 viewBox, currentColor), so the
+       Hub can tint it. An icon that bakes in its own colours ignores that tint. -->
+  <path d="M6 5h2v2H6ZM8 7h2v2H8ZM10 9h2v2h-2ZM12 11h2v2h-2ZM10 13h2v2h-2ZM8 15h2v2H8ZM6 17h2v2H6ZM13 17h5v2h-5Z"/>
 </svg>
