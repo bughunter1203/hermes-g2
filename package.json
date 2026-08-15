@@ -13,6 +13,7 @@
     "sim": "evenhub-simulator http://localhost:5173 --automation-port 9898",
     "sim:glow": "evenhub-simulator http://localhost:5173 --automation-port 9898 --glow",
     "sim:check": "node scripts/smoke-sim.mjs",
+    "shots": "node scripts/capture-store-shots.mjs",
     "qr": "evenhub qr --url http://localhost:5173",
     "pack": "npm run build && evenhub pack app.json dist -o hermes-even-hub-app.ehpk",
     "test": "vitest run",
