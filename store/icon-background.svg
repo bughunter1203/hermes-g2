@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Square field for the layered-icon pairing. Full bleed, no rounding: the
+       console applies its own mask. -->
+  <rect width="1024" height="1024" fill="#0A0A0A"/>
+</svg>
