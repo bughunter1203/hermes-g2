@@ -16,6 +16,7 @@
     "shots": "node scripts/capture-store-shots.mjs",
     "qr": "evenhub qr --url http://localhost:5173",
     "pack": "npm run build && evenhub pack app.json dist -o hermes-even-hub-app.ehpk",
+    "pack:local": "npm run build && node scripts/pack-local.mjs",
     "test": "vitest run",
     "test:watch": "vitest"
   },
