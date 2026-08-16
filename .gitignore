@@ -11,3 +11,6 @@ docs/e2e/*.png
 # real bridge host — never commit; app.json keeps template hosts
 app.local.json
 .pack/
+
+# bitwarden session keys — never commit
+key.txt

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Glyph only, transparent field. Pairs with icon-background.svg when the
+       console wants a layered icon. Scaled to 85% and centred so a circular or
+       rounded mask cannot clip it. -->
+  <g transform="translate(512,512) scale(0.85) translate(-512,-512) translate(-51,0)">
+    <polyline points="336,336 556,512 336,688"
+              fill="none" stroke="#FFFFFF" stroke-width="84"
+              stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="616" y="646" width="216" height="84" rx="42" fill="#FFFFFF"/>
+  </g>
+</svg>
